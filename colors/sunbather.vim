@@ -228,3 +228,7 @@ hi link GitGutterAdd                LineNr
 hi link GitGutterDelete             LineNr
 hi link GitGutterChange             LineNr
 hi link GitGutterChangeDelete       LineNr
+
+
+hi link FloatBorder		    WhichKey
+hi link NormalFloat       Normal
